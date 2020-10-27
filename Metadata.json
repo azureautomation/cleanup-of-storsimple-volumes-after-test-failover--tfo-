@@ -1,7 +1,7 @@
 {
     "Author": "Sujay Talasila [MSFT]",
     "ContentSize": 15147,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/cleanup-of-storsimple-volumes-after-test-failover-(tfo)/master/Cleanup-After-Test-Failover.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/cleanup-of-storsimple-volumes-after-test-failover--tfo-/master/Cleanup-After-Test-Failover.ps1",
     "DownloadCount": 1416,
     "Id": "Cleanup-of-StorSimple-22bba0c4",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This runbook deletes all the volumes, backups, backup policies temporarily created on the target StorSimple device for TFO scenario using ASR. It also shuts down the StorSimple virtual appliance after TFO.",
     "Title": "Cleanup of StorSimple volumes after Test Failover (TFO)",
     "UpdatedDate": "2017-10-4T00:00:00",
-    "Url": "https://github.com/azureautomation/cleanup-of-storsimple-volumes-after-test-failover-(tfo)",
+    "Url": "https://github.com/azureautomation/cleanup-of-storsimple-volumes-after-test-failover--tfo-",
     "UserTags": "Disaster Recovery, Azure Site Recovery, StorSimple"
 }
